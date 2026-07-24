@@ -16,7 +16,7 @@ This repository contains the comprehensive System Analysis and Design (SAD) docu
 ## 📐 UML Diagrams & System Architecture
 
 ### 1. Use Case Diagram
-Illustrates the primary interactions between key actors (`Member`, `Librarian`) and the system functionalities.
+Shows the primary interactions between key actors (`Member`, `Librarian`) and the system functionalities.
 
 ![Use Case Diagram](./images/Use%20Case%20Diagram%20.jpg)
 
@@ -25,21 +25,21 @@ Illustrates the primary interactions between key actors (`Member`, `Librarian`) 
 ### 2. Activity Diagram
 Maps out the step-by-step logic and operational flow for a member requesting to borrow a book, including fine validations and availability checks.
 
-![Activity Diagram](./path-to-your-image/activity_diagram.png)
+![Activity Diagram](./images/Activity%20Diagram.jpg)
 
 ---
 
 ### 3. Class Diagram
 Defines the static structural design of the system, detailing domain entities (`Librarian`, `Member`, `Book`, `LibraryCatalog`, `Loan`, `Reservation`), their attributes, methods, and relationship cardinalities.
 
-![Class Diagram](./path-to-your-image/class_diagram.png)
+![Class Diagram](./images/Class%20Diagram%20.jpg)
 
 ---
 
 ### 4. Sequence Diagram
 Highlights the runtime object interaction and message passing sequence between the `UI`, `BookController`, and `FineCalculator` when returning a book.
 
-![Sequence Diagram](./path-to-your-image/sequence_diagram.png)
+![Sequence Diagram](./images/Sequence%20Diagram%20.jpg)
 
 ---
 
