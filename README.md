@@ -18,7 +18,7 @@ This repository contains the comprehensive System Analysis and Design (SAD) docu
 ### 1. Use Case Diagram
 Illustrates the primary interactions between key actors (`Member`, `Librarian`) and the system functionalities.
 
-![Use Case Diagram](./path-to-your-image/use_case_diagram.png)
+![Use Case Diagram](./images/Use%20Case%20Diagram%20.jpg)
 
 ---
 
